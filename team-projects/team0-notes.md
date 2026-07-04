@@ -10,7 +10,8 @@
 | Team0 | GitHub |
 |------|--------|
 | Carl | @tbd |
-| Person B | @tbd |
+| Ai | @tbd |
+| Clarence | @tbd |
 
 ---
 s
@@ -21,7 +22,7 @@ s
 
 **What is the most useful Git command you learned today, and why?**
 
-_(Edit this line on your branch — your teammate will write something different)_
+Something 
 
 ---
 
