@@ -29,7 +29,7 @@ Work through them **in order** — each one builds on the last.
 
 ## ✅ Completion Requirements (for your gift card 🎁)
 
-To be eligible for the ¥1,000 Amazon gift card, you must complete **all three** of the following:
+To be eligible for the ¥1,500 Amazon gift card, you must complete **all three** of the following:
 
 - [ ] A merged PR that adds your file to `participants/`
 - [ ] A documented merge conflict resolution in Exercise 4
