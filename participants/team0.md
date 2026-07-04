@@ -14,3 +14,4 @@
 ## What we want to learn
 - <Git obviously lol>
 - <How to become a level 10 programmer.>
+- Something else
