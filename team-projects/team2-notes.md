@@ -22,8 +22,7 @@
 
 **What is the most useful Git command you learned today, and why?**
 
-How to become a super saiyan
-
+git status
 ---
 
 ## ✅ Resolution Notes
