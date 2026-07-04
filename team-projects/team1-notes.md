@@ -30,4 +30,4 @@ learn how to merge git
 
 After resolving the conflict, write a one-sentence summary of how you resolved it:
 
-_(Add your resolution note here after Exercise 3 is complete)_
+We merged that together.
