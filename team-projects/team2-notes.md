@@ -30,4 +30,5 @@ git status
 
 After resolving the conflict, write a one-sentence summary of how you resolved it:
 
-We combined both answers to show two different perspectives.
+Kept one version.
+
