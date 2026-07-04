@@ -9,8 +9,9 @@
 
 | Name | GitHub |
 |------|--------|
-| Person A | @tbd |
-| Person B | @tbd |
+| Person A | @anastasiasasaki |
+| Person B | @GiandalfTheGrey |
+| Person C | @ThomasGK42      |
 
 ---
 
@@ -21,7 +22,7 @@
 
 **What is the most useful Git command you learned today, and why?**
 
-_(Edit this line on your branch — your teammate will write something different)_
+How to become a super saiyan
 
 ---
 
@@ -29,4 +30,5 @@ _(Edit this line on your branch — your teammate will write something different
 
 After resolving the conflict, write a one-sentence summary of how you resolved it:
 
-_(Add your resolution note here after Exercise 3 is complete)_
+Kept one version.
+
